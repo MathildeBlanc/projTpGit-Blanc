@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         require 'fichier1-Blanc.php';
         echo 'Bonjour de Blanc';
+        echo 'seconde ligne de programme pour utilisateur Blanc';
         ?>
     </body>
 </html>
