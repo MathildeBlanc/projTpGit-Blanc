@@ -1,7 +1,7 @@
 <html>
     <body>
         <?php
-        echo "ceci est un fichier ajouté par LOISON.";
+        echo "Le fichier 2 Blanc utilisateur Loison";
         ?>
         <br>
     </body>
