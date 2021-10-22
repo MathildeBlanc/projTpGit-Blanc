@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'bonjour de Blanc';
+        require 'fichier1-Blanc.php';
+        echo 'Bonjour de Blanc';
         ?>
     </body>
 </html>
