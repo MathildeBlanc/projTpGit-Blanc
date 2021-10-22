@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         require 'fichier1-Blanc.php';
-        echo 'Bonjour de Blanc';
+        echo "ceci est une erreur de Loison qui a remplacé une ligne";
         ?>
     </body>
 </html>
