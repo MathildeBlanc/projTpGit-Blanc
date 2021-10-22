@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'bonjour de Blanc';
+        echo 'bonjour de Blanc voici son numéro de téléphne ';
         ?>
     </body>
 </html>
