@@ -14,7 +14,7 @@ and open the template in the editor.
         require 'fichier1-Blanc.php';
         echo 'Bonjour de Blanc'; 
         echo '<br>';
-        echo 'petite modif';
+        echo 'seconde ligne de programme utilisateur Blanc avec ajout';
         ?>
     </body>
 </html>
